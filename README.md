@@ -1,7 +1,7 @@
-###Musixmatch API
-##Get your API key and add to the .ENV file
+### Musixmatch API
+## Get your API key and add to the .ENV file
 
-#https://developer.musixmatch.com
+# https://developer.musixmatch.com
 
 ## Available Scripts
 
