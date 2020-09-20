@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###Musixmatch API
+##Get your API key and add to the .ENV file
+
+#https://developer.musixmatch.com
 
 ## Available Scripts
 
